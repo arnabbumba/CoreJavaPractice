@@ -6,7 +6,7 @@ public class TestMain {
 		
 		//ANNONYMUS INNER CLASS
 		
-		System.out.println(process("Hello World",new Processor(){
+		System.out.println(process("Hello World ARNAB",new Processor(){
 			public String process(String s){
 				return s.toLowerCase();
 			}

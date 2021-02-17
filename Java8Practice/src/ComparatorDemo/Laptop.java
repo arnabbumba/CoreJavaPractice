@@ -33,7 +33,7 @@ public class Laptop {
 	}
 	@Override
 	public String toString() {
-		return "Laptop [brand=" + brand + ", price=" + price + ", ram=" + ram + "]";
+		return "Laptop [   brand=" + brand + ", price=" + price + ", ram=" + ram + "]";
 	}
 	
 	
